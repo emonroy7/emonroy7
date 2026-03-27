@@ -60,8 +60,9 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emonroy7&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emonroy7&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emonroy7&show_icons=true&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emonroy7&layout=compact&hide_border=true&langs_count=6)
 ![GitHub Streak](https://streak-stats.demolab.com?user=emonroy7&hide_border=true)
 
 </div>
