@@ -1,13 +1,14 @@
 <div align="center">
 
-### DATA ANALYTICS • AI • BUSINESS INTELLIGENCE
-
 # Hi, I'm Emon Roy
 
-I build data-driven solutions using analytics, machine learning, and reporting tools to turn raw data into actionable insights. My work focuses on data analysis, dashboarding, ETL workflows, and applied AI projects that support better decision-making.
+### Data Analytics • AI • Business Intelligence
 
-![Open to collaborate](https://img.shields.io/badge/Open%20to-Collaborate-success?style=flat-square)
-![Focused on](https://img.shields.io/badge/Focused%20on-Data%20Analytics%20%26%20AI-blue?style=flat-square)
+I build data-driven solutions using analytics, machine learning, dashboards, and reporting workflows to turn raw data into actionable insights.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emon-roy/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emonroy7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emonroy7.github.io)
 
 </div>
 
@@ -15,10 +16,10 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 
 ## About Me
 
-- Data analytics and AI enthusiast with experience in **Python, SQL, Power BI, and machine learning**
-- Interested in **analytics engineering, business intelligence, ETL pipelines, dashboards, and applied AI**
-- Currently building projects in **data analytics, reporting automation, forecasting, and AI-powered workflows**
-- Open to collaborating on **data, BI, dashboarding, and machine learning projects**
+- Interested in **data analytics, business intelligence, machine learning, and applied AI**
+- Skilled in **Python, SQL, Power BI, Excel, dashboards, ETL workflows, and reporting**
+- Currently working on projects involving **analytics, forecasting, automation, and AI-driven insights**
+- Open to collaborating on **data, BI, dashboard, ETL, and applied AI projects**
 
 ---
 
@@ -28,19 +29,19 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Data Analytics / BI
+### Analytics & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
-### Data / Engineering
+### Data & Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-6A5ACD?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Data%20Workflows-6A5ACD?style=for-the-badge)
 
-### AI / Machine Learning
+### AI / ML
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -49,31 +50,37 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 
 ## What I'm Working On
 
-- Building **data analytics and reporting projects** that solve real business problems
-- Creating **interactive dashboards** for performance tracking and decision support
-- Developing **ETL and data transformation workflows** for clean and reliable reporting
-- Exploring **machine learning and AI applications** for analytics and automation
+- Data analytics and reporting projects for business insights
+- Interactive dashboards for performance tracking
+- ETL and data transformation workflows
+- Machine learning and AI applications for analytics and automation
 
 ---
 
-## GitHub Stats
+## Featured Projects
 
-<div align="center">
+### Marketing Campaign Performance and Customer Insights Analytics
+Analyzed campaign performance, customer behavior, and conversion trends using analytics workflows, reporting, and dashboarding.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emonroy7&show_icons=true&hide_border=true&include_all_commits=true)
+### Financial Risk Monitoring and Forecasting Analytics
+Built analytics workflows to monitor payment trends, risk segments, and forecasting insights for decision-making.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emonroy7&layout=compact&hide_border=true&langs_count=6)
+### AI / ML Research Projects
+Worked on applied machine learning and explainable AI research, including model analysis, experimentation, and evaluation.
+
+---
+
+## GitHub Activity
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=emonroy7&hide_border=true)
-
-</div>
 
 ---
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emon-roy/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emonroy7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emonroy7.github.io)
+- LinkedIn: [emon-roy](https://linkedin.com/in/emon-roy/)
+- GitHub: [emonroy7](https://github.com/emonroy7)
+- Portfolio: [emonroy7.github.io](https://emonroy7.github.io)
 
 ---
 
