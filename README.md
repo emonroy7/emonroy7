@@ -13,7 +13,7 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 - 📊 Data analytics and AI enthusiast with experience in **Python, SQL, Power BI, and machine learning**
 - 🧠 Interested in **analytics engineering, business intelligence, ETL pipelines, dashboards, and applied AI**
@@ -22,7 +22,7 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 
 ---
 
-## Tech Stack
+##  💻 Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -56,7 +56,7 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 
 ---
 
-## What I'm Working On
+##  🚀 What I'm Working On
 
 - Building **data analytics and reporting projects** that solve real business problems
 - Creating **interactive dashboards** for performance tracking and decision support
@@ -65,17 +65,37 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 
 ---
 
-## GitHub Stats
+##  📊 GitHub Stats
+
+<!-- <div align="left">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonroy7&theme=dracula)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=emonroy7&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emonroy7&theme=default)
+
+
+![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emonroy7&theme=default)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emonroy7&theme=default&utcOffset=-4)
+
+![Most Used Languages](https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=emonroy7&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true)
+</div> -->
 
 <div align="left">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=emonroy7&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonroy7&theme=dracula)
 
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=emonroy7&theme=tokyonight&hide_border=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emonroy7&theme=radical&utcOffset=-4)
+
+
+</div> 
 
 ---
 
-## Connect With Me
+##  🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emon-roy/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emonroy7)
