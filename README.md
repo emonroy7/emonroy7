@@ -67,28 +67,12 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 
 ##  📊 GitHub Stats
 
-<!-- <div align="left">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonroy7&theme=dracula)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=emonroy7&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emonroy7&theme=default)
-
-
-![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emonroy7&theme=default)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emonroy7&theme=default&utcOffset=-4)
-
-![Most Used Languages](https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=emonroy7&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true)
-</div> -->
-
 <div align="left">
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonroy7&theme=dracula)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=emonroy7&theme=tokyonight&hide_border=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emonroy7&theme=radical&utcOffset=-4)
 
 
 </div> 
