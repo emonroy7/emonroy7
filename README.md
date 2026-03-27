@@ -77,9 +77,10 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emon-roy/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emonroy7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emonroy7.github.io/Emon-Roy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emon-roy/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emonroy7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emonroy7.github.io/Emon-Roy/)
+
 ---
 
 <div align="center">
