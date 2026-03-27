@@ -42,8 +42,6 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-6A5ACD?style=for-the-badge)
-![Forecasting](https://img.shields.io/badge/Forecasting-FF6F61?style=for-the-badge)
 
 ### Databases & Warehousing
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -57,9 +55,6 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Additional Software
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Suite-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 ---
 
 ## What I'm Working On
