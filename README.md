@@ -1,74 +1,81 @@
 <div align="center">
 
-<sub>DATA ANALYTICS & AI</sub>
+### DATA ANALYTICS • AI • BUSINESS INTELLIGENCE
 
-# emonroy7
+# Hi, I'm Emon Roy
 
-End-to-end data engineer. I build pipelines that move data,
-models that learn from it, and dashboards that make it legible.
-Currently deep in LLM infrastructure and production ML systems.
+I build data-driven solutions using analytics, machine learning, and reporting tools to turn raw data into actionable insights. My work focuses on data analysis, dashboarding, ETL workflows, and applied AI projects that support better decision-making.
 
-![Open to collab](https://img.shields.io/badge/%E2%97%8F%20Open%20to%20collab-0F6E56?style=flat-square&labelColor=E1F5EE&color=E1F5EE)
-![Building with LLMs](https://img.shields.io/badge/%E2%97%8F%20Building%20with%20LLMs-534AB7?style=flat-square&labelColor=EEEDFE&color=EEEDFE)
+![Open to collaborate](https://img.shields.io/badge/Open%20to-Collaborate-success?style=flat-square)
+![Focused on](https://img.shields.io/badge/Focused%20on-Data%20Analytics%20%26%20AI-blue?style=flat-square)
 
 </div>
 
 ---
 
-### Stack
+## About Me
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3B6D11?style=flat-square&logo=python&logoColor=3B6D11&labelColor=EAF3DE&color=EAF3DE)
-![SQL](https://img.shields.io/badge/SQL-185FA5?style=flat-square&logo=postgresql&logoColor=185FA5&labelColor=E6F1FB&color=E6F1FB)
-
-**ML / AI**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-993C1D?style=flat-square&logo=tensorflow&logoColor=993C1D&labelColor=FAECE7&color=FAECE7)
-![PyTorch](https://img.shields.io/badge/PyTorch-993C1D?style=flat-square&logo=pytorch&logoColor=993C1D&labelColor=FAECE7&color=FAECE7)
-![LangChain](https://img.shields.io/badge/LangChain-534AB7?style=flat-square&logo=langchain&logoColor=534AB7&labelColor=EEEDFE&color=EEEDFE)
-
-**Data Engineering & BI**
-
-![Spark](https://img.shields.io/badge/Spark-993556?style=flat-square&logo=apachespark&logoColor=993556&labelColor=FBEAF0&color=FBEAF0)
-![dbt](https://img.shields.io/badge/dbt-993556?style=flat-square&logo=dbt&logoColor=993556&labelColor=FBEAF0&color=FBEAF0)
-![Power BI](https://img.shields.io/badge/Power_BI-854F0B?style=flat-square&logo=powerbi&logoColor=854F0B&labelColor=FAEEDA&color=FAEEDA)
-![Tableau](https://img.shields.io/badge/Tableau-854F0B?style=flat-square&logo=tableau&logoColor=854F0B&labelColor=FAEEDA&color=FAEEDA)
+- Data analytics and AI enthusiast with experience in **Python, SQL, Power BI, and machine learning**
+- Interested in **analytics engineering, business intelligence, ETL pipelines, dashboards, and applied AI**
+- Currently building projects in **data analytics, reporting automation, forecasting, and AI-powered workflows**
+- Open to collaborating on **data, BI, dashboarding, and machine learning projects**
 
 ---
 
-### Currently building
+## Tech Stack
 
-| | Focus | What |
-|---|---|---|
-| 🟩 | **RAG Pipelines** | Retrieval-augmented generation for enterprise knowledge bases |
-| 🟪 | **ML Ops** | Model monitoring, drift detection, and deployment automation |
-| 🟧 | **Data Modeling** | Scalable dbt + Spark pipelines for analytics at scale |
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Analytics / BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+### Data / Engineering
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-6A5ACD?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### AI / Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
-### GitHub Stats
+## What I'm Working On
+
+- Building **data analytics and reporting projects** that solve real business problems
+- Creating **interactive dashboards** for performance tracking and decision support
+- Developing **ETL and data transformation workflows** for clean and reliable reporting
+- Exploring **machine learning and AI applications** for analytics and automation
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-![emonroy7's GitHub stats](https://github-readme-stats.vercel.app/api?username=emonroy7&show_icons=true&hide_border=true&count_private=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emonroy7&layout=compact&hide_border=true&langs_count=6&theme=default)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emonroy7&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emonroy7&layout=compact&hide_border=true&langs_count=6)
 ![GitHub Streak](https://streak-stats.demolab.com?user=emonroy7&hide_border=true)
 
 </div>
 
 ---
 
-### Connect
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emonroy7)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/emonroy7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://emonroy7.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emon-roy/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emonroy7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emonroy7.github.io)
 
 ---
 
 <div align="center">
-<sub>Profile views &nbsp;<img src="https://komarev.com/ghpvc/?username=emonroy7&style=flat-square&color=1D9E75" alt=""/></sub>
+  <img src="https://komarev.com/ghpvc/?username=emonroy7&style=flat-square&color=blue" alt="profile views" />
 </div>
