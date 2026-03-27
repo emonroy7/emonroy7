@@ -77,7 +77,7 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 
 ## Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/emon-roy/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
