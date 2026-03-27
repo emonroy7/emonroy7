@@ -2,7 +2,7 @@
 
 ### DATA ANALYTICS • AI • BUSINESS INTELLIGENCE
 
-# Hi, I'm Emon Roy
+# 👋 Hi, I'm Emon Roy
 
 I build data-driven solutions using analytics, machine learning, and reporting tools to turn raw data into actionable insights. My work focuses on data analysis, dashboarding, ETL workflows, and applied AI projects that support better decision-making.
 
@@ -15,10 +15,10 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 
 ## About Me
 
-- Data analytics and AI enthusiast with experience in **Python, SQL, Power BI, and machine learning**
-- Interested in **analytics engineering, business intelligence, ETL pipelines, dashboards, and applied AI**
-- Currently building projects in **data analytics, reporting automation, forecasting, and AI-powered workflows**
-- Open to collaborating on **data, BI, dashboarding, and machine learning projects**
+- 📊 Data analytics and AI enthusiast with experience in **Python, SQL, Power BI, and machine learning**
+- 🧠 Interested in **analytics engineering, business intelligence, ETL pipelines, dashboards, and applied AI**
+- 🚀 Currently building projects in **data analytics, reporting automation, forecasting, and AI-powered workflows**
+- 🤝 Open to collaborating on **data, BI, dashboarding, and machine learning projects**
 
 ---
 
