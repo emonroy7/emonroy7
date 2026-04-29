@@ -71,7 +71,7 @@ I build data-driven solutions using analytics, machine learning, and reporting t
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonroy7&theme=dracula)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=emonroy7&theme=tokyonight&hide_border=radical)
+# ![GitHub Streak](https://streak-stats.demolab.com?user=emonroy7&theme=tokyonight&hide_border=radical)
 
 
 
